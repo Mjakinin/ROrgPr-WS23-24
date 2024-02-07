@@ -1,0 +1,1 @@
+../../../Blatt00/praxis/Aufgabe01/or2.vhd

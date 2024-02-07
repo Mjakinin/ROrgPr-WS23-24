@@ -1,0 +1,1 @@
+../../../Blatt05/praxis/Aufgabe02.2/reg.vhd

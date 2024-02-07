@@ -1,0 +1,1 @@
+../../../Blatt09/praxis/Aufgabe02/proc_config.vhd
