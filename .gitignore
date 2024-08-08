@@ -1,8 +1,0 @@
-# GHDL object files and simulation outputs
-ghdl-work/
-waveform.ghw
-waveform.vcd.gz
-transcript
-
-# These files are huge, so better not check them into Git
-/tools/ROrgPrLLVM/
